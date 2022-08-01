@@ -14,7 +14,7 @@ Check it out
 
 Resource | Video | Notebooks |
 |--------|-------|-----------|
-| Presentation | [Youtube](https://youtu.be/Rr8mnMP5E4A) | [![Jupyter Logo](https://github.com/magrella/iu_dviz_project/blob/main/assets/logos/jupyter-logo.svg)](https://github.com/magrella/iu_dviz_project/notebooks) |
+| Presentation | [Youtube](https://youtu.be/Rr8mnMP5E4A) | [![Jupyter Logo](https://github.com/magrella/iu_dviz_project/blob/main/assets/logos/jupyter-logo.svg)](https://github.com/magrella/iu_dviz_project/blob/notebooks/final_project.ipynb?raw=true) |
 
 
 For more information about this course. Please check Prof. YY [repo](https://github.com/yy/dviz-course/wiki/Project-deliverables)
