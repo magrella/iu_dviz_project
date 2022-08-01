@@ -10,7 +10,7 @@ Due to the large number of wells, it isn’t feasible to manually update the cha
 
 ![Panel dashboard](https://github.com/magrella/iu_dviz_project/blob/main/assets/videos/panel_dashboard_demo.gif?raw=true)
 
-This methodology allows to feature engineer deline values that can be mmpaed in order to accomodate situations in which both time and location are important towards understanding the dataset.
+The methodology used allowed us to use the decline values for each well as features that can be mapped. This is a good option to accomodate situations in which both time and location are important towards understanding the dataset.
 
 ![Map](https://github.com/magrella/iu_dviz_project/blob/main/assets/videos/holloviews_interactive_map.gif?raw=true)
 
