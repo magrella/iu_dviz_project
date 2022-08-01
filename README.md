@@ -4,12 +4,16 @@ This repository contains code and other material submitted as part of the Data V
 
 I used a wide array of visualization libraries within the Python ecosystem.
 
-[![PyData](assets\images\Pyviz-landscape-colors.png](https://pyviz.org/overviews/index.html)
+<!-- ![[PyData](assets\images\Pyviz-landscape-colors.png](https://pyviz.org/overviews/index.html) -->
 
+![PyData](https://github.com/magrella/iu_dviz_project/blob/main/assets/images/Pyviz-landscape-colors.png?raw=true)
+
+
+![Awesome Panel Introduction - Tour](https://github.com/MarcSkovMadsen/awesome-panel-introduction/blob/main/assets/videos/awesome-panel-introduction-tour.gif?raw=true)
 
 Due to the large number of wells, it isn’t feasible to manually select another well identifier to display and updated chart. Instead, we opted to build and interactive dashboard using the Panel library.
 
-![Panel dashboard](https://github.com/magrella/iu_dviz_project/blob/main/assets/videos/panel_dashboard_demo.mkv)
+![Panel dashboard](https://github.com/magrella/iu_dviz_project/blob/main/assets/videos/panel_dashboard_demo.mkv?raw=true)
 
 
 Check it out
