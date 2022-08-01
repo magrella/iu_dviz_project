@@ -12,7 +12,7 @@ Due to the large number of wells, it isn’t feasible to manually update the cha
 
 This methodology allows to feature engineer deline values that can be mmpaed in order to accomodate situations in which both time and location are important towards understanding the dataset.
 
-![Map](https://github.com/magrella/iu_dviz_project/blob/main/assets/videos/holloviews_interactive_map?raw=true)
+![Map](https://github.com/magrella/iu_dviz_project/blob/main/assets/videos/holloviews_interactive_map.gif?raw=true)
 
 Check it out
 
